@@ -116,7 +116,7 @@ me.say_hi()
 ![CICIDS2017](https://img.shields.io/badge/Dataset-CICIDS_2017-7c3aed?style=flat-square)
 
 [![View Repo](https://img.shields.io/badge/VIEW_REPO-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhee-adhee)
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://aadhi-portfolio.vercel.app)
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://adhiportfolio-indol.vercel.app/)
 
 </div>
 
