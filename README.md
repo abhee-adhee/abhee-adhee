@@ -196,7 +196,7 @@ me.say_hi()
   [+] STATUS: LEARNING. BUILDING. BREAKING.
 ```
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/abhee-adhee.png)](https://tryhackme.com/p/abhee-adhee)
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/abhee-adhee.png)](https://tryhackme.com/p/abinavaaditya)
 
 ---
 
